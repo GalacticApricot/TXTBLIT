@@ -27,7 +27,7 @@ Step 1:
 
 **How To Run:**
 
-View the docs [Here]()
+View the docs [Here](DOCS.md)
 
 
 **Contact:**
